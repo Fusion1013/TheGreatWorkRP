@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "thegreatwork:item/book/book_of_binding_bound_marid"
+  }
+}
