@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "item/iron_axe_big_spear"
+		"layer0": "thegreatwork:item/iron_sword_big_scythe"
 	},
 	"display": {
 		"thirdperson_righthand": {

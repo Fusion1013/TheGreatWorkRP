@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:item/iron_sword_katana"
+    "layer0": "thegreatwork:item/iron_sword_shortsword"
   }
 }

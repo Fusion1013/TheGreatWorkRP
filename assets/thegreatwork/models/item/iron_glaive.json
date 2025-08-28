@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "item/iron_sword_big_glaive"
+		"layer0": "thegreatwork:item/iron_sword_big_glaive"
 	},
 	"display": {
 		"thirdperson_righthand": {

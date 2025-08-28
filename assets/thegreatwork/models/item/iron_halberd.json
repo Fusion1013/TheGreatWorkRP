@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "item/iron_axe_big_halberd"
+		"layer0": "thegreatwork:item/iron_axe_big_halberd"
 	},
 	"display": {
 		"thirdperson_righthand": {
