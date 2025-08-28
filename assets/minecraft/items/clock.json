@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "first_matter",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/first_matter"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/clock"
+    }
+  }
+}
