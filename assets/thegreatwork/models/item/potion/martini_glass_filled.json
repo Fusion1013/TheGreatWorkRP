@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "thegreatwork:item/potion/martini_glass_overlay",
+    "layer1": "thegreatwork:item/potion/empty_martini_glass"
+  }
+}

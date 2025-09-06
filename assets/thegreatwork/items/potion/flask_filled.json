@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "model",
+    "model": "thegreatwork:item/potion/flask_filled",
+    "tints": [
+      {
+        "type": "minecraft:potion",
+        "default": -13083194
+      }
+    ]
+  }
+}

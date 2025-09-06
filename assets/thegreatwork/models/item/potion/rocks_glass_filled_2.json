@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "thegreatwork:item/potion/rocks_glass_overlay_2",
+    "layer1": "thegreatwork:item/potion/empty_rocks_glass_2"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "thegreatwork:item/potion/bottle_overlay_2",
+    "layer1": "thegreatwork:item/potion/empty_bottle"
+  }
+}

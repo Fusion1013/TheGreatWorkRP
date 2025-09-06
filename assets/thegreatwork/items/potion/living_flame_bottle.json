@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "model",
+    "model": "thegreatwork:item/potion/living_flame_bottle",
+    "tints": [
+      {
+        "type": "minecraft:potion",
+        "default": -13083194
+      }
+    ]
+  }
+}
