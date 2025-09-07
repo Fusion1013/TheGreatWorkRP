@@ -1,0 +1,11 @@
+{
+    "music.eternal_halls": {
+        "sounds": [
+            {
+                "name": "thegreatwork:music/eote-eternal_halls",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    }
+}
