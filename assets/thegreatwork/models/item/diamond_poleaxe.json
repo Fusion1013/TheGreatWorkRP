@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "thegreatwork:item/poleaxe"
+		"layer0": "thegreatwork:item/diamond_poleaxe"
 	},
 	"display": {
 		"thirdperson_righthand": {
