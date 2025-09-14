@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "thegreatwork:item/iron_axe_doubleheaded"
+    "layer0": "thegreatwork:item/diamond_cutlass"
   }
 }
