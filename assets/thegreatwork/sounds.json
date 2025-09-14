@@ -1,4 +1,31 @@
 {
+    "sfx.ominous_woosh.1": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/ominous_woosh",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "sfx.ominous_woosh.2": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/ominous_woosh_2",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+        "sfx.seal.1": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/seal_1",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
     "music.eternal_halls": {
         "sounds": [
             {
