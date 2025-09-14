@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "thegreatwork:item/birchbow_pulling_0"
+		"layer0": "thegreatwork:item/junglebow_pulling_1"
 	},
 	"display": {
 		"thirdperson_righthand": {

@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "thegreatwork:item/birchbow"
+    "layer0": "thegreatwork:item/junglebow"
   },
 
     "display": {

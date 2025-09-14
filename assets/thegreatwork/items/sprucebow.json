@@ -7,27 +7,27 @@
                 "threshold": 1,
                 "model": {
                     "type": "model",
-                    "model": "thegreatwork:item/birchbow_pulling_0"
+                    "model": "thegreatwork:item/sprucebow_pulling_0"
                 }
             },
             {
                 "threshold": 13,
                 "model": {
                     "type": "model",
-                    "model": "thegreatwork:item/birchbow_pulling_1"
+                    "model": "thegreatwork:item/sprucebow_pulling_1"
                 }
             },
             {
                 "threshold": 18,
                 "model": {
                     "type": "model",
-                    "model": "thegreatwork:item/birchbow_pulling_2"
+                    "model": "thegreatwork:item/sprucebow_pulling_2"
                 }
             }
         ],
         "fallback": {
             "type": "model",
-            "model": "thegreatwork:item/birchbow"
+            "model": "thegreatwork:item/sprucebow"
         }
     }
 }
