@@ -1,0 +1,112 @@
+{
+  "textures" : {
+    "22" : "block/cauldron_inner",
+    "23" : "block/cauldron_bottom",
+    "24" : "block/water_still",
+    "25" : "block/chain",
+    "10" : "block/soul_soil",
+    "11" : "block/oxidized_cut_copper",
+    "12" : "block/weathered_cut_copper",
+    "13" : "block/stone",
+    "14" : "block/andesite",
+    "15" : "block/stone_bricks",
+    "16" : "block/polished_andesite",
+    "17" : "block/anvil",
+    "18" : "block/anvil_top",
+    "19" : "block/soul_fire_0",
+    "0" : "block/deepslate_tiles",
+    "1" : "block/deepslate_bricks",
+    "2" : "block/oxidized_copper",
+    "3" : "block/polished_deepslate",
+    "4" : "block/weathered_copper",
+    "5" : "block/cobbled_deepslate",
+    "6" : "block/deepslate",
+    "7" : "block/deepslate_top",
+    "8" : "block/polished_basalt_side",
+    "9" : "block/polished_basalt_top",
+    "20" : "block/cauldron_side",
+    "21" : "block/cauldron_top"
+  },
+  "elements" : [ {
+    "from" : [ -8, -16, 24 ],
+    "to" : [ 0, -8, 32 ],
+    "faces" : {
+      "east" : {
+        "uv" : [ 0, 0, 16, 16 ],
+        "texture" : "#8"
+      },
+      "south" : {
+        "uv" : [ 0, 0, 16, 16 ],
+        "texture" : "#8"
+      },
+      "north" : {
+        "uv" : [ 0, 0, 16, 16 ],
+        "texture" : "#8"
+      },
+      "west" : {
+        "uv" : [ 0, 0, 16, 16 ],
+        "texture" : "#8"
+      },
+      "up" : {
+        "uv" : [ 0, 0, 16, 16 ],
+        "texture" : "#9"
+      }
+    }
+  }, {
+    "from" : [ -8, -16, 8 ],
+    "to" : [ 0, -12, 16 ],
+    "faces" : {
+      "east" : {
+        "uv" : [ 0, 8, 16, 16 ],
+        "texture" : "#1"
+      },
+      "south" : {
+        "uv" : [ 0, 8, 16, 16 ],
+        "texture" : "#1"
+      },
+      "north" : {
+        "uv" : [ 0, 8, 16, 16 ],
+        "texture" : "#1"
+      },
+      "west" : {
+        "uv" : [ 0, 8, 16, 16 ],
+        "texture" : "#1"
+      },
+      "up" : {
+        "uv" : [ 0, 0, 16, 16 ],
+        "texture" : "#1"
+      }
+    }
+  }, {
+    "from" : [ -8, -8, 24 ],
+    "to" : [ 0, -4, 32 ],
+    "faces" : {
+      "east" : {
+        "uv" : [ 0, 8, 16, 16 ],
+        "texture" : "#1"
+      },
+      "south" : {
+        "uv" : [ 0, 8, 16, 16 ],
+        "texture" : "#1"
+      },
+      "north" : {
+        "uv" : [ 0, 8, 16, 16 ],
+        "texture" : "#1"
+      },
+      "west" : {
+        "uv" : [ 0, 8, 16, 16 ],
+        "texture" : "#1"
+      },
+      "up" : {
+        "uv" : [ 0, 0, 16, 16 ],
+        "texture" : "#1"
+      }
+    }
+  } ],
+  "display" : {
+    "head" : {
+      "translation" : [ 0.0, -43.25, 0.0 ],
+      "scale" : [ 3.2, 3.2, 3.2 ]
+    }
+  }
+}
