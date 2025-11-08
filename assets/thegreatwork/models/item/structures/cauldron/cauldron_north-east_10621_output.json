@@ -1,0 +1,60 @@
+{
+  "textures" : {
+    "11" : "block/weathered_cut_copper",
+    "12" : "block/stone",
+    "13" : "block/polished_andesite",
+    "14" : "block/stone_bricks",
+    "15" : "block/andesite",
+    "16" : "block/anvil",
+    "17" : "block/anvil_top",
+    "18" : "block/soul_fire_0",
+    "19" : "block/chain",
+    "0" : "block/deepslate_tiles",
+    "1" : "block/deepslate_bricks",
+    "2" : "block/oxidized_copper",
+    "3" : "block/weathered_copper",
+    "4" : "block/polished_deepslate",
+    "5" : "block/cobbled_deepslate",
+    "6" : "block/deepslate",
+    "7" : "block/deepslate_top",
+    "8" : "block/polished_basalt_side",
+    "9" : "block/polished_basalt_top",
+    "10" : "block/soul_soil"
+  },
+  "elements" : [ {
+    "from" : [ -14, -16, 10 ],
+    "to" : [ -10, -8, 14 ],
+    "faces" : {
+      "east" : {
+        "uv" : [ 4, 0, 12, 16 ],
+        "texture" : "#0"
+      },
+      "south" : {
+        "uv" : [ 4, 0, 12, 16 ],
+        "texture" : "#0"
+      },
+      "north" : {
+        "uv" : [ 4, 0, 12, 16 ],
+        "texture" : "#0"
+      },
+      "west" : {
+        "uv" : [ 4, 0, 12, 16 ],
+        "texture" : "#0"
+      },
+      "up" : {
+        "uv" : [ 4, 4, 12, 12 ],
+        "texture" : "#0"
+      },
+      "down" : {
+        "uv" : [ 4, 4, 12, 12 ],
+        "texture" : "#0"
+      }
+    }
+  } ],
+  "display" : {
+    "head" : {
+      "translation" : [ 0.0, -43.25, 0.0 ],
+      "scale" : [ 3.2, 3.2, 3.2 ]
+    }
+  }
+}

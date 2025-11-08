@@ -7,27 +7,27 @@
                 "threshold": 1,
                 "model": {
                     "type": "model",
-                    "model": "item/bow_pulling_0"
+                    "model": "thegreatwork:item/first_matter"
                 }
             },
             {
                 "threshold": 13,
                 "model": {
                     "type": "model",
-                    "model": "item/bow_pulling_1"
+                    "model": "thegreatwork:item/iron_battleaxe"
                 }
             },
             {
                 "threshold": 18,
                 "model": {
                     "type": "model",
-                    "model": "item/bow_pulling_2"
+                    "model": "thegreatwork:item/iron_falchion"
                 }
             }
         ],
         "fallback": {
             "type": "model",
-            "model": "item/bow"
+            "model": "thegreatwork:item/iron_katana"
         }
     }
 }
