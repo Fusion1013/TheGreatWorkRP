@@ -1,0 +1,76 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:count",
+    "scale": 64,
+    "entries": [
+      {
+        "threshold": 0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "thegreatwork:item/coin/bronzecoin_1"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:model",
+          "model": "thegreatwork:item/coin/bronzecoin_2"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:model",
+          "model": "thegreatwork:item/coin/bronzecoin_3"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:model",
+          "model": "thegreatwork:item/coin/bronzecoin_4"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "thegreatwork:item/coin/bronzecoin_5"
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "minecraft:model",
+          "model": "thegreatwork:item/coin/bronzecoin_6"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "minecraft:model",
+          "model": "thegreatwork:item/coin/bronzecoin_7"
+        }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "minecraft:model",
+          "model": "thegreatwork:item/coin/bronzecoin_8"
+        }
+      },
+      {
+        "threshold": 9,
+        "model": {
+          "type": "minecraft:model",
+          "model": "thegreatwork:item/coin/bronzecoin_9"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "thegreatwork:item/coin/bronzecoin_1"
+    }
+  }
+}

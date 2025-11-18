@@ -1,0 +1,76 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:count",
+    "scale": 64,
+    "entries": [
+      {
+        "threshold": 0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "thegreatwork:item/coin/ironcoin_1"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:model",
+          "model": "thegreatwork:item/coin/ironcoin_2"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:model",
+          "model": "thegreatwork:item/coin/ironcoin_3"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:model",
+          "model": "thegreatwork:item/coin/ironcoin_4"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "thegreatwork:item/coin/ironcoin_5"
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "minecraft:model",
+          "model": "thegreatwork:item/coin/ironcoin_6"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "minecraft:model",
+          "model": "thegreatwork:item/coin/ironcoin_7"
+        }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "minecraft:model",
+          "model": "thegreatwork:item/coin/ironcoin_8"
+        }
+      },
+      {
+        "threshold": 9,
+        "model": {
+          "type": "minecraft:model",
+          "model": "thegreatwork:item/coin/ironcoin_9"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "thegreatwork:item/coin/ironcoin_1"
+    }
+  }
+}

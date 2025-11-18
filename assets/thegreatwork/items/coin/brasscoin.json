@@ -1,0 +1,76 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:count",
+    "scale": 64,
+    "entries": [
+      {
+        "threshold": 0,
+        "model": {
+          "type": "minecraft:model",
+          "model": "thegreatwork:item/coin/brasscoin_1"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "minecraft:model",
+          "model": "thegreatwork:item/coin/brasscoin_2"
+        }
+      },
+      {
+        "threshold": 3,
+        "model": {
+          "type": "minecraft:model",
+          "model": "thegreatwork:item/coin/brasscoin_3"
+        }
+      },
+      {
+        "threshold": 4,
+        "model": {
+          "type": "minecraft:model",
+          "model": "thegreatwork:item/coin/brasscoin_4"
+        }
+      },
+      {
+        "threshold": 5,
+        "model": {
+          "type": "minecraft:model",
+          "model": "thegreatwork:item/coin/brasscoin_5"
+        }
+      },
+      {
+        "threshold": 6,
+        "model": {
+          "type": "minecraft:model",
+          "model": "thegreatwork:item/coin/brasscoin_6"
+        }
+      },
+      {
+        "threshold": 7,
+        "model": {
+          "type": "minecraft:model",
+          "model": "thegreatwork:item/coin/brasscoin_7"
+        }
+      },
+      {
+        "threshold": 8,
+        "model": {
+          "type": "minecraft:model",
+          "model": "thegreatwork:item/coin/brasscoin_8"
+        }
+      },
+      {
+        "threshold": 9,
+        "model": {
+          "type": "minecraft:model",
+          "model": "thegreatwork:item/coin/brasscoin_9"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "thegreatwork:item/coin/brasscoin_1"
+    }
+  }
+}
