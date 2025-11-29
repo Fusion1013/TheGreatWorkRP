@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "thegreatwork:item/book/book20"
+    "layer0": "thegreatwork:item/book/teal_2"
   }
 }

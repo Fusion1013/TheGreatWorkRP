@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "thegreatwork:item/book/book19"
+    "layer0": "thegreatwork:item/book/burnt"
   }
 }
