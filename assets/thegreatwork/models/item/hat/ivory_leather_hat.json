@@ -50,10 +50,11 @@
 		"ground": {
 			"translation": [0, 4.5, 0]
 		},
-		"gui": {
-			"rotation": [20, 0, 0],
-			"translation": [0.75, 5.5, 0]
-		},
+        "gui": {
+            "rotation": [ 30, 45, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale":[ 0.625, 0.625, 0.625 ]
+        },
 		"head": {
 			"rotation": [8, 0, 0],
 			"translation": [0, 17.5, 1.75],
