@@ -34,5 +34,140 @@
                 "stream": true
             }
         ]
+    },
+    "sfx.choral.1": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/choral_1",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+     "sfx.choral.2": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/choral_2",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+     "sfx.choral.3": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/choral_3",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+     "sfx.choral.4": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/choral_4",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+     "sfx.anvil_pulsing": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/anvil_pulsing",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+     "sfx.crystal.1": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/crystal_1",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+     "sfx.crystal.2": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/crystal_2",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+     "sfx.lava.1": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/lava_1",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+     "sfx.lava.2": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/lava_2",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+     "sfx.waterpipe": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/waterpipe",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+     "ambience.ambience.1": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/ambience_1",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+         "ambience.ambience.2": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/ambience_2",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+         "ambience.ambience.3": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/ambience_3",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+         "ambience.ambience.4": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/ambience_4",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+         "ambience.anvil_ambience": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/anvil_ambience",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
     }
 }
