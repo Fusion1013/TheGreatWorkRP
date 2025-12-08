@@ -169,5 +169,77 @@
                 "stream": true
             }
         ]
+    },
+        "sfx.swoosh.1": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/swoosh_1",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+            "sfx.swoosh.2": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/swoosh_2",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+            "sfx.swoosh.3": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/swoosh_3",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+            "sfx.swoosh.4": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/swoosh_4",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+            "sfx.impact.1": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/impact_1",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+                "sfx.impact.2": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/impact_2",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+                "sfx.impact.3": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/impact_3",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+                "sfx.cymbal.1": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/cymbal_1",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
     }
 }
