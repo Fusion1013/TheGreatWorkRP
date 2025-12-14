@@ -17,7 +17,7 @@
             }
         ]
     },
-        "sfx.seal.1": {
+    "sfx.seal.1": {
         "sounds": [
             {
                 "name": "thegreatwork:sfx/seal_1",
@@ -35,6 +35,42 @@
             }
         ]
     },
+    "music.gravity": {
+        "sounds": [
+            {
+                "name": "thegreatwork:music/crinkles-gravity",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "music.ancient_getaway": {
+        "sounds": [
+            {
+                "name": "thegreatwork:music/nemesistheory-ancient_getaway",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "music.outpost": {
+        "sounds": [
+            {
+                "name": "thegreatwork:music/thedashdub-outpost",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "music.shooting_for_the_stars": {
+        "sounds": [
+            {
+                "name": "thegreatwork:music/thedashdub-shooting_for_the_stars",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
     "sfx.choral.1": {
         "sounds": [
             {
@@ -44,7 +80,7 @@
             }
         ]
     },
-     "sfx.choral.2": {
+    "sfx.choral.2": {
         "sounds": [
             {
                 "name": "thegreatwork:sfx/choral_2",
@@ -53,7 +89,7 @@
             }
         ]
     },
-     "sfx.choral.3": {
+    "sfx.choral.3": {
         "sounds": [
             {
                 "name": "thegreatwork:sfx/choral_3",
@@ -62,7 +98,7 @@
             }
         ]
     },
-     "sfx.choral.4": {
+    "sfx.choral.4": {
         "sounds": [
             {
                 "name": "thegreatwork:sfx/choral_4",
@@ -71,7 +107,7 @@
             }
         ]
     },
-     "sfx.anvil_pulsing": {
+    "sfx.anvil_pulsing": {
         "sounds": [
             {
                 "name": "thegreatwork:sfx/anvil_pulsing",
@@ -80,7 +116,7 @@
             }
         ]
     },
-     "sfx.crystal.1": {
+    "sfx.crystal.1": {
         "sounds": [
             {
                 "name": "thegreatwork:sfx/crystal_1",
@@ -89,7 +125,7 @@
             }
         ]
     },
-     "sfx.crystal.2": {
+    "sfx.crystal.2": {
         "sounds": [
             {
                 "name": "thegreatwork:sfx/crystal_2",
@@ -98,7 +134,7 @@
             }
         ]
     },
-     "sfx.lava.1": {
+    "sfx.lava.1": {
         "sounds": [
             {
                 "name": "thegreatwork:sfx/lava_1",
@@ -107,7 +143,7 @@
             }
         ]
     },
-     "sfx.lava.2": {
+    "sfx.lava.2": {
         "sounds": [
             {
                 "name": "thegreatwork:sfx/lava_2",
@@ -116,7 +152,7 @@
             }
         ]
     },
-     "sfx.waterpipe": {
+    "sfx.waterpipe": {
         "sounds": [
             {
                 "name": "thegreatwork:sfx/waterpipe",
@@ -125,7 +161,7 @@
             }
         ]
     },
-     "ambience.ambience.1": {
+    "ambience.ambience.1": {
         "sounds": [
             {
                 "name": "thegreatwork:ambience/ambience_1",
@@ -134,7 +170,7 @@
             }
         ]
     },
-         "ambience.ambience.2": {
+    "ambience.ambience.2": {
         "sounds": [
             {
                 "name": "thegreatwork:ambience/ambience_2",
@@ -143,7 +179,7 @@
             }
         ]
     },
-         "ambience.ambience.3": {
+    "ambience.ambience.3": {
         "sounds": [
             {
                 "name": "thegreatwork:ambience/ambience_3",
@@ -152,7 +188,7 @@
             }
         ]
     },
-         "ambience.ambience.4": {
+    "ambience.ambience.4": {
         "sounds": [
             {
                 "name": "thegreatwork:ambience/ambience_4",
@@ -161,7 +197,7 @@
             }
         ]
     },
-         "ambience.anvil_ambience": {
+    "ambience.anvil_ambience": {
         "sounds": [
             {
                 "name": "thegreatwork:ambience/anvil_ambience",
