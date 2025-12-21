@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "thegreatwork:item/forge/forge_hammer"
+    "layer0": "thegreatwork:item/axe/diamond_hammer"
   }
 }
