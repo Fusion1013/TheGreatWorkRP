@@ -26,6 +26,15 @@
             }
         ]
     },
+    "music.twilights_end": {
+        "sounds": [
+            {
+                "name": "thegreatwork:music/lol-twilights_end",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
     "music.eternal_halls": {
         "sounds": [
             {
@@ -206,7 +215,7 @@
             }
         ]
     },
-        "sfx.swoosh.1": {
+    "sfx.swoosh.1": {
         "sounds": [
             {
                 "name": "thegreatwork:sfx/swoosh_1",
@@ -215,7 +224,7 @@
             }
         ]
     },
-            "sfx.swoosh.2": {
+    "sfx.swoosh.2": {
         "sounds": [
             {
                 "name": "thegreatwork:sfx/swoosh_2",
@@ -224,7 +233,7 @@
             }
         ]
     },
-            "sfx.swoosh.3": {
+    "sfx.swoosh.3": {
         "sounds": [
             {
                 "name": "thegreatwork:sfx/swoosh_3",
@@ -233,7 +242,7 @@
             }
         ]
     },
-            "sfx.swoosh.4": {
+    "sfx.swoosh.4": {
         "sounds": [
             {
                 "name": "thegreatwork:sfx/swoosh_4",
@@ -242,7 +251,7 @@
             }
         ]
     },
-            "sfx.impact.1": {
+    "sfx.impact.1": {
         "sounds": [
             {
                 "name": "thegreatwork:sfx/impact_1",
@@ -251,7 +260,7 @@
             }
         ]
     },
-                "sfx.impact.2": {
+    "sfx.impact.2": {
         "sounds": [
             {
                 "name": "thegreatwork:sfx/impact_2",
@@ -260,7 +269,7 @@
             }
         ]
     },
-                "sfx.impact.3": {
+    "sfx.impact.3": {
         "sounds": [
             {
                 "name": "thegreatwork:sfx/impact_3",
@@ -269,7 +278,7 @@
             }
         ]
     },
-                "sfx.cymbal.1": {
+    "sfx.cymbal.1": {
         "sounds": [
             {
                 "name": "thegreatwork:sfx/cymbal_1",
