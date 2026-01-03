@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/spear_in_hand",
+  "textures": {
+    "layer0": "thegreatwork:item/spear/diamond_javelin_in_hand"
+  }
+}

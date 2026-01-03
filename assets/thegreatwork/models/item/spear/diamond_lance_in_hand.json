@@ -1,0 +1,28 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/spear_in_hand",
+	"textures": {
+		"layer0": "thegreatwork:item/spear/diamond_lance_in_hand"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, -42],
+			"translation": [0, 12.5, 1],
+			"scale": [1.75, 1.75, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, 42],
+			"translation": [0, 12.5, 1],
+			"scale": [1.75, 1.75, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [38, -90, 0],
+			"translation": [1.25, 8.25, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-47.25, -90, 0],
+			"translation": [1.25, 8.25, 0]
+		}
+	}
+}

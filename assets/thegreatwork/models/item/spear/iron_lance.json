@@ -3,7 +3,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "thegreatwork:item/spear/iron_halberd"
+		"layer0": "thegreatwork:item/spear/iron_lance"
 	},
 	"display": {
 		"firstperson_righthand": {

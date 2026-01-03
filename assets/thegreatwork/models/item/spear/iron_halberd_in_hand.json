@@ -1,0 +1,28 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/spear_in_hand",
+	"textures": {
+		"layer0": "thegreatwork:item/spear/iron_halberd_in_hand"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 89, -45],
+			"translation": [0, 0, 1.5],
+			"scale": [1.5, 1.5, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -89, 45],
+			"translation": [0, 0.5, 1.5],
+			"scale": [1.5, 1.5, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [-11, 90, -44],
+			"translation": [2.75, 4, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [1, -90, 44],
+			"translation": [2.75, 4, 0]
+		}
+	}
+}

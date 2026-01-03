@@ -5,7 +5,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "thegreatwork:item/spear/diamond_pike"
+          "model": "thegreatwork:item/spear/iron_lance"
         },
         "when": [
           "gui",
@@ -17,7 +17,7 @@
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "thegreatwork:item/spear/diamond_pike_in_hand"
+      "model": "thegreatwork:item/spear/iron_lance_in_hand"
     },
     "property": "minecraft:display_context"
   },
