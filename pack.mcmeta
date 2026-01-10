@@ -1,6 +1,7 @@
 {
     "pack": {
-        "pack_format": 64,
-        "description": "Custom Model Data Textures"
+        "min_format": 75,
+        "max_format": 75,
+        "description": "The Great Work Textures"
     }
 }
