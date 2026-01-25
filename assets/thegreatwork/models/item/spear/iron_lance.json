@@ -8,6 +8,9 @@
 	"display": {
 		"firstperson_righthand": {
 			"scale": [1, 3.42969, 1]
+		},
+		"fixed": {
+			"scale": [2, 2, 1]
 		}
 	}
 }
