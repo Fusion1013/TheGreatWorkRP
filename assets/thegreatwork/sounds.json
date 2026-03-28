@@ -80,6 +80,15 @@
             }
         ]
     },
+    "music.exposure": {
+        "sounds": [
+            {
+                "name": "thegreatwork:music/blueprince-exposure",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
     "sfx.choral.1": {
         "sounds": [
             {
