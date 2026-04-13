@@ -89,6 +89,51 @@
             }
         ]
     },
+    "music.reclamation": {
+        "sounds": [
+            {
+                "name": "thegreatwork:music/blueprince-reclamation",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "music.vanitas": {
+        "sounds": [
+            {
+                "name": "thegreatwork:music/blueprince-vanitas",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "music.vanitas_aduacia": {
+        "sounds": [
+            {
+                "name": "thegreatwork:music/blueprince-vanitas_aduacia",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "music.vanitas_maledicta": {
+        "sounds": [
+            {
+                "name": "thegreatwork:music/blueprince-vanitas_maledicta",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "music.visions_of_emerald": {
+        "sounds": [
+            {
+                "name": "thegreatwork:music/blueprince-visions_of_emerald",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
     "sfx.choral.1": {
         "sounds": [
             {
