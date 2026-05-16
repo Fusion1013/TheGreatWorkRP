@@ -1,4 +1,22 @@
 {
+    "sfx.ominous_amaze.1": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/ominous_amaze_1",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "sfx.big_dong.1": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/big_dong",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
     "sfx.ominous_woosh.1": {
         "sounds": [
             {
@@ -128,7 +146,7 @@
     "music.visions_of_emerald": {
         "sounds": [
             {
-                "name": "thegreatwork:music/blueprince-visions_of_emerald",
+                "name": "thegreatwork:music/blueprince-visons_of_emerald",
                 "volume": 1.0,
                 "stream": true
             }
