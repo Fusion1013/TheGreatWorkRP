@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "thegreatwork:item/sword/elemental_dagger_fire"
+  }
+}
