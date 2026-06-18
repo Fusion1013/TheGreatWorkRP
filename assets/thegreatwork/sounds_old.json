@@ -1,0 +1,569 @@
+{
+    "sfx.ominous_amaze.1": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/ominous_amaze_1",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "sfx.big_dong.1": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/big_dong",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "sfx.ominous_woosh.1": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/ominous_woosh",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "sfx.ominous_woosh.2": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/ominous_woosh_2",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "sfx.transmute_loop": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/transmute_loop",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "sfx.transmute_consume_item": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/transmute_consume_item",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.jungle_temple.atmos_1": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/jungle_temple/atmos_1",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.jungle_temple.atmos_2": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/jungle_temple/atmos_2",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.jungle_temple.atmos_3": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/jungle_temple/atmos_3",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.jungle_temple.atmos_4": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/jungle_temple/atmos_4",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.jungle_temple.atmos_5": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/jungle_temple/atmos_5",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.jungle_temple.transmute_inactive": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/jungle_temple/transmute_inactive",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.jungle_temple.transmute_active": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/jungle_temple/transmute_active",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.jungle_temple.transmute_active_1": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/jungle_temple/transmute_active_1",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.jungle_temple.transmute_active_2": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/jungle_temple/transmute_active_2",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.jungle_temple.transmute_active_3": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/jungle_temple/transmute_active_3",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.jungle_temple.transmute_active_4": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/jungle_temple/transmute_active_4",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.jungle_temple.transmute_inactive_1": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/jungle_temple/transmute_inactive_1",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.jungle_temple.transmute_inactive_2": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/jungle_temple/transmute_inactive_2",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.jungle_temple.transmute_inactive_3": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/jungle_temple/transmute_inactive_3",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.jungle_temple.transmute_inactive_4": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/jungle_temple/transmute_inactive_4",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.jungle_temple.upper_1": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/jungle_temple/atmos_upper_1",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.jungle_temple.upper_2": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/jungle_temple/atmos_upper_2",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.jungle_temple.upper_3": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/jungle_temple/atmos_upper_3",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.jungle_temple.upper_4": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/jungle_temple/atmos_upper_4",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.jungle_temple.upper_5": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/jungle_temple/atmos_upper_5",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.jungle_temple.upper_6": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/jungle_temple/atmos_upper_6",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "sfx.seal.1": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/seal_1",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "music.twilights_end": {
+        "sounds": [
+            {
+                "name": "thegreatwork:music/lol-twilights_end",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "music.eternal_halls": {
+        "sounds": [
+            {
+                "name": "thegreatwork:music/eote-eternal_halls",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "music.gravity": {
+        "sounds": [
+            {
+                "name": "thegreatwork:music/crinkles-gravity",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "music.ancient_getaway": {
+        "sounds": [
+            {
+                "name": "thegreatwork:music/nemesistheory-ancient_getaway",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "music.outpost": {
+        "sounds": [
+            {
+                "name": "thegreatwork:music/thedashdub-outpost",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "music.shooting_for_the_stars": {
+        "sounds": [
+            {
+                "name": "thegreatwork:music/thedashdub-shooting_for_the_stars",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "music.exposure": {
+        "sounds": [
+            {
+                "name": "thegreatwork:music/blueprince-exposure",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "music.reclamation": {
+        "sounds": [
+            {
+                "name": "thegreatwork:music/blueprince-reclamation",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "music.vanitas": {
+        "sounds": [
+            {
+                "name": "thegreatwork:music/blueprince-vanitas",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "music.vanitas_aduacia": {
+        "sounds": [
+            {
+                "name": "thegreatwork:music/blueprince-vanitas_aduacia",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "music.vanitas_maledicta": {
+        "sounds": [
+            {
+                "name": "thegreatwork:music/blueprince-vanitas_maledicta",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "music.visions_of_emerald": {
+        "sounds": [
+            {
+                "name": "thegreatwork:music/blueprince-visons_of_emerald",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "sfx.choral.1": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/choral_1",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "sfx.choral.2": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/choral_2",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "sfx.choral.3": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/choral_3",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "sfx.choral.4": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/choral_4",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "sfx.anvil_pulsing": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/anvil_pulsing",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "sfx.crystal.1": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/crystal_1",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "sfx.crystal.2": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/crystal_2",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "sfx.lava.1": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/lava_1",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "sfx.lava.2": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/lava_2",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "sfx.waterpipe": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/waterpipe",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.ambience.1": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/ambience_1",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.ambience.2": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/ambience_2",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.ambience.3": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/ambience_3",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.ambience.4": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/ambience_4",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "ambience.anvil_ambience": {
+        "sounds": [
+            {
+                "name": "thegreatwork:ambience/anvil_ambience",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "sfx.swoosh.1": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/swoosh_1",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "sfx.swoosh.2": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/swoosh_2",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "sfx.swoosh.3": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/swoosh_3",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "sfx.swoosh.4": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/swoosh_4",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "sfx.impact.1": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/impact_1",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "sfx.impact.2": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/impact_2",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "sfx.impact.3": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/impact_3",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    },
+    "sfx.cymbal.1": {
+        "sounds": [
+            {
+                "name": "thegreatwork:sfx/cymbal_1",
+                "volume": 1.0,
+                "stream": true
+            }
+        ]
+    }
+}
